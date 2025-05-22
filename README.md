@@ -4,9 +4,6 @@
 <h3 align="center">A passionat developer from India</h3>
 
 - 🌱 I’m currently learning **Next JS**
-
-- 💬 Ask me about **React , Javascript**
-
 - 📫 How to reach me **thesoumenmondal50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
