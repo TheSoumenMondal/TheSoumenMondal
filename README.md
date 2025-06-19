@@ -6,7 +6,10 @@
 
 I'm Soumen — just a dev trying to write code that doesn’t crash (most of the time). I love building end-to-end systems, automating boring stuff, and deploying reliable software.
 
-![Quote](https://img.shields.io/badge/If%20it%20works--ship%20it--if%20it%20breaks--debug%20like%20hell-%23FFD700?style=for-the-badge&logo=github)
+![Quote](https://img.shields.io/badge/If%20it%20works--ship%20it--if%20it%20breaks--debug%20like%20hell-black?style=for-the-badge&logo=github&color=FFA500)
+
+
+
 
 
 - 📍 Based in India
