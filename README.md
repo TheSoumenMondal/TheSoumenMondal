@@ -2,9 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheSoumenMondal&color=blue)
 
-
-![[Peerlist](https://github-readme-badge.peerlist.io/api/thesoumen?style=social)](https://peerlist.io/thesoumen)
-
 ---
 
 I'm Soumen — just a dev trying to write code that doesn’t crash (most of the time). I love building end-to-end systems, automating boring stuff, and deploying reliable software.
